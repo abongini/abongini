@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on: a computer
-- 🌱 I’m currently learning: chemistry
+- 🌱 I’m currently learning: The Glorious Chemistry!
 - 👯 I’m looking to collaborate: on my project
-- 🤔 I’m looking for: help with my project
-- 💬 Ask me about: not my project
-- 📫 How to reach me: touch my shoulder
+- 🤔 I’m looking for: not help with my project
+- 💬 Ask me about: my project
+- 📫 How to reach me: touch my shoulder (arthur.bongini@epfl.ch)
 - ⚡ Fun fact: I am currently not on water
 
 <!--
